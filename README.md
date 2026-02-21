@@ -206,7 +206,22 @@
   
 </div>
 
-<!-- Snake Animation -->
+<br/>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sileshidev-lab/sileshidev-lab/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=sileshidev-lab&theme=vue&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  
+</div>
+
+<br/>
+
+## 📊 3D Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-3d-contrib.vercel.app/3d-contrib/profile-custom-rainbow?sileshidev-lab" alt="3D Contribution Graph" />
+  
 </div>
